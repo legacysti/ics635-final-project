@@ -1,0 +1,17 @@
+# Virtual environments
+.venv*/
+
+# Python and Jupyter caches
+__pycache__/
+.ipynb_checkpoints/
+
+# API keys
+.env
+
+# Generated data
+data/state_month_panel.csv
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
