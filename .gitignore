@@ -15,3 +15,6 @@ data/state_month_panel.csv
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Downloaded by download_eia_data.py (about 300 MB)
+data/ELEC.zip
